@@ -1,0 +1,2 @@
+* Description
+  Initial web app configuration for typescript/sass/eslint
